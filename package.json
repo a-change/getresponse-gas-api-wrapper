@@ -1,0 +1,12 @@
+{
+  "name": "getresponse_api_wrappie",
+  "version": "1.0.0",
+  "description": "GAS wrapper for GetResponse v.3 API",
+  "main": "Code.js",
+  "author": "Nikolay Semyonov",
+  "license": "MIT",
+  "dependencies": {
+    "jsdoc-minami-template": "^1.2.6",
+    "minami": "^1.2.3"
+  }
+}
