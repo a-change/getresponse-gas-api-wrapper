@@ -2,7 +2,7 @@
 
 This wrapper is designed to allow you to access GetResponse API methods from Google Apps Script with minimal overhead. All functions except for one are direct equivalents for API methods so to get it going you'll need to check with its specifications: https://apidocs.getresponse.com/v3/
 
-Still, I tried to document all the functions the best I could.
+Still, I tried to document all the functions [the best I could](https://a-change.github.io/getresponse-gas-api-wrappie/index.html).
 
 #### Installation
 
