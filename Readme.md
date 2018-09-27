@@ -6,7 +6,7 @@ Still, I tried to document all the functions [the best I could](https://a-change
 
 #### Installation
 
-1) You can just copy contents of Code.js (with all the comments, ~108kb) or Code.min.js (~21kb) into a separate file in your project
+1) You can just copy contents of Code.js (with all the comments, ~108kb, after minifying it'll be ~21kb) into a separate file in your project
 
 2) Or use it as a library, project id: `MkiUlE8fBzJCI_E3Y01xHDS03q5CrmZYh` (here's how connect a library to your project: https://developers.google.com/apps-script/guides/libraries)
 
